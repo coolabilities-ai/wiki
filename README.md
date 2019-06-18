@@ -1,0 +1,2 @@
+# wiki
+coolabilities.ai mediawiki
